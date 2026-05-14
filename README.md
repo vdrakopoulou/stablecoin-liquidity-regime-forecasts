@@ -10,7 +10,7 @@ A replication-ready research repository for testing whether stablecoin liquidity
 ![Sample](https://img.shields.io/badge/sample-2020--04--15_to_2026--03--17-0f766e)
 ![Python](https://img.shields.io/badge/python-3.x-3776AB?logo=python&logoColor=white)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1670--8033-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1670-8033)
-![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-TBA-lightgrey)](https://doi.org/10.5281/zenodo.20180030)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-10.5281%2Fzenodo.20180030-blue)](https://doi.org/10.5281/zenodo.20180030)
 
 </div>
 
