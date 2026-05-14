@@ -46,7 +46,8 @@ This repository accompanies the research paper:
 > **Affiliations:** Higher Colleges of Technology; Embry-Riddle Aeronautical University  
 > **ORCID:** [0000-0002-1670-8033](https://orcid.org/0000-0002-1670-8033)  
 > **Correspondence:** <vdrakopoulou@gmail.com>  
-> **GitHub repository:** https://github.com/vdrakopoulou/stablecoin-liquidity-regime-forecasts 
+> **GitHub repository:** https://github.com/vdrakopoulou/stablecoin-liquidity-regime-forecasts
+> 
 > **Zenodo replication package DOI:**  https://doi.org/10.5281/zenodo.20180030
 
 ---
